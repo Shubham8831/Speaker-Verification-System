@@ -1,5 +1,5 @@
 
-1. Project Overview
+**1. Project Overview**
 -------------------
 This repository implements a **Speaker Verification System** based on audio features extracted from Mozilla Common Voice data (version Delta Segment 19.0). The goal is to differentiate between a “target” speaker (reference speaker) and “non-target” speakers using an SVM (Support Vector Machine) classifier. The main steps include:
 
@@ -16,7 +16,7 @@ Detailed descriptions of each step, along with dataset details:
 
 ---
 
-2. Dataset Details
+**2. Dataset Details**
 ------------------
 **Source:**  
 Audio data is taken from Mozilla’s Common Voice project (version Delta Segment 19.0). You can download it from:
